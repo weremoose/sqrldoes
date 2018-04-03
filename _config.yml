@@ -2,21 +2,17 @@
 
 title: sqrl
 baseurl: # name of the repository
-email: your@email.com
-
-
+email: sqrl@pm.me
 
 highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
-
 
 # Tracker
 analytics:
 
 # Comments
 disqus-shortname:
-
 
 #optimization
 #compress.html
@@ -30,12 +26,12 @@ compress_html:
   profile: false
   startings: []
 
-
 sass:
  style: compressed
 
 exclude:
 - README.md
 
-
-gems: [jekyll-seo-tag, jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
