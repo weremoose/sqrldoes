@@ -1,13 +1,8 @@
 ---
-title: About Hagura
+title: About the sqrl
 layout: post
 permalink: /about/
 published: true
 ---
 
-For more themes please visit [https://blog.webjeda.com](https://blog.webjeda.com)
-
-Does the theme deserve a star?
-
-<a class="github-button" href="https://github.com/sharu725/hagura" data-style="mega" data-count-href="/sharu725/hagura/stargazers" data-count-api="/repos/sharu725/hagura#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+I answer to the name Anastasia. I work for Greenpeace doing IT related stuff. When I do not tinker things online, I enjoy doing things with my hands. This site is just notes on the things I do. Not such a big fun of Facebook, so no news on me there, BUT here is me on instagram, that's me on github, here I am on linkedin and here's [my cv](melekou.com) in case you were curious.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  Static website (the proper way)
 date:   2016-09-17 23:34:56 +0530
 categories: jekyll update
 ---

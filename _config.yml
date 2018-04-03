@@ -1,12 +1,10 @@
 ### your site title here
-
-title: sqrl
-baseurl: # name of the repository
+title: sqrl does
+baseurl: 
 email: sqrl@pm.me
 
 highlighter: rouge
 markdown: kramdown
-### exclude the instructions / write-up in the README.md
 
 # Tracker
 analytics:
@@ -29,6 +27,7 @@ compress_html:
 sass:
  style: compressed
 
+### exclude the instructions / write-up in the README.md
 exclude:
 - README.md
 
